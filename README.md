@@ -1,9 +1,10 @@
 ## Olá, eu sou o Thiago! 
 
-### Sobre mim
+## Sobre mim
 <div style="display: inline_block"  >
 <p> - Cursando Bacharelado em Ciência de Dados na UNIVESP 👨‍🎓 :books:  </p>
 <p> - Interesses: Python, R, Javascript, Machine learning e Inteligência Artificial :computer: 🎯 </p>
+</b>
   
 ## Minhas skills:
 <div align="center">
