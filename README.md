@@ -7,7 +7,7 @@
 </b>
   
 ## Minhas skills:
-<div style="display: inline_block"><br>
+<div style="display:inline_block"><br>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
