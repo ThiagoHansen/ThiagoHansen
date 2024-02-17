@@ -5,7 +5,8 @@
 <p> - Cursando Bacharelado em Tecnologia da Informação na UNIVESP 👨‍🎓 :books:  </p>
 <p> - Interesses: Kotlin, Desenvolimento Mobile, Android :computer: 🎯 </p>
 <p>Redes Sociais:</p>
-<img src="https://img.shields.io/badge/[LinkedIn-0077B5](https://www.linkedin.com/in/thiagopereira93/)?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/thiagopereira93/)"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/thiagohansenx/)"
 </b>
   
 ## Minhas skills:
